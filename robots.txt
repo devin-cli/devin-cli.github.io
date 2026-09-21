@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://devin-cli.github.io/sitemap.xml
