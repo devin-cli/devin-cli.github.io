@@ -19,3 +19,5 @@ Devin is sold as an AI software engineer for teams with complex, multi-repo code
 ---
 
 *This is an independent review page, not affiliated with Devin or Cognition, and all trademarks mentioned remain the property of their respective owners.*
+
+_Last reviewed: 2026-09-22_
